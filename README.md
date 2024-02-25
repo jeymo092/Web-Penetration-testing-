@@ -21,7 +21,7 @@ The penetration test focused on DVWA, version [Version Number]. The testing cove
 - **Nmap Version 7.91:** Used for network discovery and vulnerability scanning.
 - **Nikto Version 2.1.6:** Web server scanner that identifies potential vulnerabilities.
 - **Metasploit Framework Version 6.1.4:** Framework for developing, testing, and executing exploits.
-- **PowerSploit Version 3.0.0:** Collection of Microsoft PowerShell modules for penetration testers.
+- **FFUF3.0.0:** Collection of URLs fuzzing
 
 ## Software Versions
 - **DVWA Version:** [Version Number]
@@ -29,7 +29,7 @@ The penetration test focused on DVWA, version [Version Number]. The testing cove
 - **Nmap Version:** 7.91
 - **Nikto Version:** 2.1.6
 - **Metasploit Version:** 6.1.4
-- **PowerSploit Version:** 3.0.0
+- **FFUF** 3.0.0
 
 ## Methodology
 The penetration test followed a systematic approach, including:
