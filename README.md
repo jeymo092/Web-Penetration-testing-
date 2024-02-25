@@ -48,19 +48,6 @@ The penetration test followed a systematic approach, including:
 6. **Reporting:** Summarizing findings and providing recommendations.
 
 ## Findings
-### Critical Vulnerabilities
-1. **SQL Injection (SQLi):** Description of the vulnerability and its impact.
-   - **Recommendation:** Steps to remediate the issue.
-2. **Stored Cross-Site Scripting (XSS):** Description of the vulnerability and its impact.
-   - **Recommendation:** Steps to remediate the issue.
-3. **File Upload:** Description of the vulnerability and its impact.
-   - **Recommendation:** Steps to remediate the issue.
-4. **Brute Force:** Description of the vulnerability and its impact.
-   - **Recommendation:** Steps to remediate the issue.
-5. **Command Injection:** Description of the vulnerability and its impact.
-   - **Recommendation:** Steps to remediate the issue.
-6. **Broken Authentication:** Description of the vulnerability and its impact.
-   - **Recommendation:** Steps to remediate the issue.
 
 ### Critical Vulnerabilities
 
