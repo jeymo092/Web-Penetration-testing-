@@ -37,12 +37,23 @@ The penetration test followed a systematic approach, including:
 2. **Scanning:** Identifying open ports, services, and vulnerabilities.
 3. **Enumeration:** Extracting information about users, systems, and configurations.
 4. **Exploitation:** Actively exploiting vulnerabilities to gain unauthorized access.
+   - **Critical Vulnerabilities Exploited:**
+     1. **SQL Injection (SQLi):** Description of the vulnerability and its impact.
+     2. **Stored Cross-Site Scripting (XSS):** Description of the vulnerability and its impact.
+     3. **File Upload:** Description of the vulnerability and its impact.
+     4. **Brute Force:** Description of the vulnerability and its impact.
 5. **Post-Exploitation:** Documenting the extent of compromise and potential impact.
 6. **Reporting:** Summarizing findings and providing recommendations.
 
 ## Findings
 ### Critical Vulnerabilities
-1. **Vulnerability 1:** Description of the vulnerability and its impact.
+1. **SQL Injection (SQLi):** Description of the vulnerability and its impact.
+   - **Recommendation:** Steps to remediate the issue.
+2. **Stored Cross-Site Scripting (XSS):** Description of the vulnerability and its impact.
+   - **Recommendation:** Steps to remediate the issue.
+3. **File Upload:** Description of the vulnerability and its impact.
+   - **Recommendation:** Steps to remediate the issue.
+4. **Brute Force:** Description of the vulnerability and its impact.
    - **Recommendation:** Steps to remediate the issue.
 
 ### High-Risk Vulnerabilities
