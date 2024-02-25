@@ -1,7 +1,7 @@
 # Web Application Penetration Test Report
 
 ## Overview
-This repository contains the findings and report for a penetration test conducted on the METASPLOITABLE 2web application. The purpose of this penetration test was to identify and address security vulnerabilities to enhance the overall security posture of the application.
+This repository contains the findings and report for a penetration test conducted on the METASPLOITABLE 2 web application. The purpose of this penetration test was to identify and address security vulnerabilities to enhance the overall security posture of the application.
 
 ## Scope
 The penetration test focused on the [Web Application Name] version [Version Number]. The testing covered the following areas:
