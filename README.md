@@ -1,16 +1,35 @@
 # Web Application Penetration Test Report
 
 ## Overview
-This repository contains the findings and report for a penetration test conducted on the METASPLOITABLE 2 web application. The purpose of this penetration test was to identify and address security vulnerabilities to enhance the overall security posture of the application.
+This repository contains the findings and report for a penetration test conducted on the Damn Vulnerable Web Application (DVWA). The purpose of this penetration test was to identify and address security vulnerabilities to enhance the overall security posture of the application.
 
 ## Scope
-The penetration test focused on the [Web Application Name] version [Version Number]. The testing covered the following areas:
+The penetration test focused on DVWA, version [Version Number]. The testing covered the following areas, aligned with OWASP Top 10:
 - [List of tested functionalities or components]
-- [Include any specific testing requirements or restrictions]
+  - Injection
+  - Broken Authentication
+  - Cross-Site Scripting (XSS)
+  - Insecure Direct Object References (IDOR)
+  - Security Misconfigurations
+  - Cross-Site Request Forgery (CSRF)
+  - Using Components with Known Vulnerabilities
+  - Inadequate Logging & Monitoring
+  - Unvalidated Redirects and Forwards
 
 ## Tools Used
-- [List of penetration testing tools and their versions]
-- [Any custom scripts or tools developed for the test]
+- **Burp Suite:** Used for web application security testing, including scanning and analyzing web application traffic.
+- **Nmap:** Used for network discovery and vulnerability scanning.
+- **Nikto:** Web server scanner that identifies potential vulnerabilities.
+- **Metasploit:** Framework for developing, testing, and executing exploits.
+- **PowerSploit:** Collection of Microsoft PowerShell modules for penetration testers.
+
+## Software Versions
+- **DVWA Version:** [Version Number]
+- **Burp Suite Version:** [Version Number]
+- **Nmap Version:** [Version Number]
+- **Nikto Version:** [Version Number]
+- **Metasploit Version:** [Version Number]
+- **PowerSploit Version:** [Version Number]
 
 ## Methodology
 The penetration test followed a systematic approach, including:
@@ -37,6 +56,9 @@ The penetration test followed a systematic approach, including:
 ## Recommendations
 - **General Recommendations:** Overall suggestions for improving the security posture.
 - **Specific Recommendations:** Tailored recommendations for each identified vulnerability.
+
+## Outdated Software Versions
+Identify and address any outdated software versions, applying the necessary updates and patches.
 
 ## Conclusion
 Summarize the overall findings and express the importance of addressing the identified vulnerabilities promptly.
