@@ -134,17 +134,6 @@ In conclusion, the penetration test conducted on the Damn Vulnerable Web Applica
 
 Addressing these vulnerabilities promptly is crucial to mitigate the potential impact on the security and functionality of the web application. Failure to remediate these issues in a timely manner may expose the organization to various risks, including data breaches, unauthorized access, and reputational damage.
 
-### Recommendations
-
-1. **Immediate Remediation:** Prioritize the remediation of critical vulnerabilities, starting with SQL Injection, Stored XSS, and Command Injection.
-   
-2. **Regular Security Audits:** Implement a schedule for regular security audits and penetration testing to proactively identify and address security issues.
-
-3. **User Awareness Training:** Conduct user awareness training to educate users about secure practices and mitigate social engineering risks.
-
-### Acknowledgment
-
-We would like to acknowledge the cooperation and support received from the stakeholders during the penetration testing process.
 
 ### Disclaimer
 
