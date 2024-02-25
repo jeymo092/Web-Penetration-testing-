@@ -151,32 +151,3 @@ We would like to acknowledge the cooperation and support received from the stake
 This report is provided for informational purposes, and the findings are based on the state of the application and system as of the date of testing. It is important to note that security is an ongoing process, and additional measures may be required to address evolving threats.
 
 In conclusion, the successful mitigation of the identified vulnerabilities will significantly enhance the overall security posture of the web application and contribute to a more resilient and secure digital environment.
-
----
-
-## Next Steps
-Detail the steps to be taken for remediation, retesting, and ongoing security maintenance.
-
-## Acknowledgments
-
-We would like to express our gratitude to the individuals who contributed to the success of the penetration test on the Damn Vulnerable Web Application (DVWA) version 1.0.7.
-
-- **WHTA COMMUNITY:**
-- **KABARAK UNIVERSITY COMPUTER SCIENCE LECTURERS:** 
-
-Their collaboration and commitment to enhancing the security of the web application were invaluable. The success of the penetration test would not have been possible without their active involvement.
-
-## Conclusion
-
-In conclusion, the penetration test conducted on the DVWA has revealed critical vulnerabilities that require immediate attention. The identified vulnerabilities pose significant risks to the confidentiality, integrity, and availability of the web application and the underlying system.
-
-[... Rest of the conclusion content ...]
-
----
-
-## Disclaimer
-Include a disclaimer outlining the responsible and ethical use of the information provided in the report.
-
----
-
-**Note:** This is a template, and you should customize it based on the specifics of your penetration test and findings.
