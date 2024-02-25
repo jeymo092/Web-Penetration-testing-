@@ -17,19 +17,19 @@ The penetration test focused on DVWA, version [Version Number]. The testing cove
   - Unvalidated Redirects and Forwards
 
 ## Tools Used
-- **Burp Suite:** Used for web application security testing, including scanning and analyzing web application traffic.
-- **Nmap:** Used for network discovery and vulnerability scanning.
-- **Nikto:** Web server scanner that identifies potential vulnerabilities.
-- **Metasploit:** Framework for developing, testing, and executing exploits.
-- **PowerSploit:** Collection of Microsoft PowerShell modules for penetration testers.
+- **Burp Suite Version 2021.4.2:** Used for web application security testing, including scanning and analyzing web application traffic.
+- **Nmap Version 7.91:** Used for network discovery and vulnerability scanning.
+- **Nikto Version 2.1.6:** Web server scanner that identifies potential vulnerabilities.
+- **Metasploit Framework Version 6.1.4:** Framework for developing, testing, and executing exploits.
+- **PowerSploit Version 3.0.0:** Collection of Microsoft PowerShell modules for penetration testers.
 
 ## Software Versions
 - **DVWA Version:** [Version Number]
-- **Burp Suite Version:** [Version Number]
-- **Nmap Version:** [Version Number]
-- **Nikto Version:** [Version Number]
-- **Metasploit Version:** [Version Number]
-- **PowerSploit Version:** [Version Number]
+- **Burp Suite Version:** 2021.4.2
+- **Nmap Version:** 7.91
+- **Nikto Version:** 2.1.6
+- **Metasploit Version:** 6.1.4
+- **PowerSploit Version:** 3.0.0
 
 ## Methodology
 The penetration test followed a systematic approach, including:
@@ -42,6 +42,8 @@ The penetration test followed a systematic approach, including:
      2. **Stored Cross-Site Scripting (XSS):** Description of the vulnerability and its impact.
      3. **File Upload:** Description of the vulnerability and its impact.
      4. **Brute Force:** Description of the vulnerability and its impact.
+     5. **Command Injection:** Description of the vulnerability and its impact.
+     6. **Broken Authentication:** Description of the vulnerability and its impact.
 5. **Post-Exploitation:** Documenting the extent of compromise and potential impact.
 6. **Reporting:** Summarizing findings and providing recommendations.
 
@@ -54,6 +56,10 @@ The penetration test followed a systematic approach, including:
 3. **File Upload:** Description of the vulnerability and its impact.
    - **Recommendation:** Steps to remediate the issue.
 4. **Brute Force:** Description of the vulnerability and its impact.
+   - **Recommendation:** Steps to remediate the issue.
+5. **Command Injection:** Description of the vulnerability and its impact.
+   - **Recommendation:** Steps to remediate the issue.
+6. **Broken Authentication:** Description of the vulnerability and its impact.
    - **Recommendation:** Steps to remediate the issue.
 
 ### High-Risk Vulnerabilities
