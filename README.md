@@ -5,7 +5,6 @@ This repository contains the findings and report for a penetration test conducte
 
 ## Scope
 The penetration test focused on DVWA, version [Version Number]. The testing covered the following areas, aligned with OWASP Top 10:
-- [List of tested functionalities or components]
   - Injection
   - Broken Authentication
   - Cross-Site Scripting (XSS)
