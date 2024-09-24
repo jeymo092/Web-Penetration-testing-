@@ -23,7 +23,7 @@ The penetration test focused on DVWA, version [Version Number]. The testing cove
 - **FFUF3.0.0:** Collection of URLs fuzzing
 
 ## Software Versions
-- **DVWA Version:** [Version Number]
+- **DVWA Version:**
 - **Burp Suite Version:** 2021.4.2
 - **Nmap Version:** 7.91
 - **Nikto Version:** 2.1.6
